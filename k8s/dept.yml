@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: dept-dev
-        image: 303760478036.dkr.ecr.us-east-1.amazonaws.com/static-app:number
+        image: 426121349387.dkr.ecr.us-east-2.amazonaws.com/static-app1:3
         resources:
           requests:
             memory: "128Mi"
